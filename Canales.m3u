@@ -1,0 +1,46 @@
+ "name":"IPTV CASA",
+   "author":"IPTV",
+   "image":"https://c.tenor.com/S-LcNRcGua0AAAAC/rock-rock-and-roll.gif",
+  "telegram":"",
+   "info":"Lista IPTV: Televisión, Deportes, Pelis y Series. Las listas se actualizarán al menos una vez a la semana con el fin de dar el mejor servicio posible.",
+   "url":"https://pastebin.com/raw/NLNnDyHK",
+    "groups":[
+ {
+     "name":"Películas, Series y documentales",
+         "image":"https://c.tenor.com/VY18f3VQPbwAAAAC/television.gif",
+         "url":"https://pastebin.com/raw/r2Awpnjx"
+	 },{
+ 		"name":"Televisión Alternativa",
+         "image":"https://fotografias.antena3.com/clipping/cmsimages02/2016/04/13/BBCE817B-274D-4768-8092-8FC96FFF6AB1/98.jpg?crop=1536,864,x0,y80&width=1900&height=1069&optimize=high&format=webply",
+         "url":"https://pastebin.com/raw/PSfQzicc"
+	},{
+ 		 "name":"Deportes",
+         "image":"https://i.pinimg.com/originals/78/ec/a4/78eca4bb1cf2599142b83ca167cda8bd.gif",
+         "url":"https://pastebin.com/raw/kAYXSZUq"
+		},{
+ "name":"Fight Time",
+         "image":"https://c.tenor.com/YOfImIa16cIAAAAC/simpsons-fight.gif",
+         "url":"https://dl.dropbox.com/s/i1ckoavfak52txe/fight.m3u?dl=0"
+		},{
+ 		"name":"IPTV 1",
+         "image":"https://www.latercera.com/resizer/7EisHFcOuwmQoFabwNESR3n1AQM=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/2P6VYTTSUVFMNGWIMOVRQZOQRM.gif",
+         "url":"https://dl.dropbox.com/s/79veju71m3ywm45/IPTV%201%20ilimitada.m3u?dl=0"
+		},{
+ 		"name":"IPTV 2",
+         "image":"https://i.gifer.com/PQ3c.gif",
+         "url":"https://dl.dropbox.com/s/c6fgsj2pm8ormqj/IPTV%202%20ilimitada.m3u?dl=0"
+	},{
+ 		"name":"IPTV 3 + VOD (RFEF)",
+         "image":"https://64.media.tumblr.com/7c1a8fc0d8e770cd15f0e83a251d1f81/56777aa2797501b4-78/s540x810/bf41627efc7e954303afe66afc7b65da5ed5d6a5.gif",
+         "url":"https://dl.dropbox.com/s/gq63cui0jtiri8s/IPTV%203%20footters.m3u?dl=0"
+},{
+ 		"name":"IPTV 4K",
+         "image":"https://thumbs.gfycat.com/DeadPhonyFreshwatereel-size_restricted.gif",
+         "url":"https://dl.dropbox.com/s/25o7klb2k45lx0t/IPTV%204K.m3u?dl=0"
+	},{
+ 		"name":"IPTV 5",
+         "image":"https://i.gifer.com/K7S6.gif",
+         "url":"https://dl.dropbox.com/s/boazxafwjflkn2t/IPTV%205%20ilimitada.m3u?dl=0"
+ 
+   			 }]   
+        }
